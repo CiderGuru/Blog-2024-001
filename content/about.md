@@ -3,10 +3,10 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: CiderGuru
+jobTitle: Jaunty Gentleman
+name: A Very Stable Milking Stool
 bio: true
 icon: ":coffee:"
 ---
 
-Add your Bio here!:+1:
+I am Pleasant.
