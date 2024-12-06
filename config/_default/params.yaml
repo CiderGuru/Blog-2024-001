@@ -13,30 +13,30 @@ author:
 ############################
 
 links:
-  - github: https://github.com/CiderGuru/Blog-2024-001
+  #- github: https://github.com/CiderGuru/
   # - website: https://www.stablemilskingstool.co.uk
+  - bluesky: https://bsky.app/profile/stablemilkingstool.co.uk
   - x-twitter: https://twitter.com/MonkeyOfStool
+  - amazon: https://www.amazon.co.uk/hz/wishlist/ls/1KXIMI7XMSWLS?ref_=wl_share
+  - paypal: https://paypal.me/JonesHoward
+  - email: mailto:stool@stablemilkingstool.co.uk
   # - mastodon:  
   # - reddit: 
   # - telegram: 
   # - whatsapp: 
-  - email: mailto:stool@stablemilkingstool.co.uk
   # - discord: 
   # - twitch: 
   # - patreon: 
   # - youtube: 
   # - keybase: 
-  - bluesky: https://bsky.app/profile/stablemilkingstool.co.uk
   # - spotify: 
   # - skype: 
-  - amazon: https://www.amazon.co.uk/hz/wishlist/ls/1KXIMI7XMSWLS?ref_=wl_share
-  - paypal: https://paypal.me/JonesHoward
 
 ###############################
 ## OpenGraph & Twitter Cards
 ###############################
 
 title: A Very Stable Blog
-description: "Site built with Jauntiness"
+description: "A Site built with Jauntiness"
 images:
   - thumbnail.png
