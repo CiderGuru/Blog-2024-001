@@ -2,8 +2,8 @@
 ## CHANGE THESE
 ############################
 
-baseURL: "https://chrede88.github.io/qubt"
-title: "Qubt Theme"
+baseURL: "https://CiderGuru.github.io/Blog-2024-001"
+title: Blog-2024-001
 
 ############################
 ## MISC
@@ -13,8 +13,3 @@ enableEmoji: true
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
 enableRobotsTXT: true
-markup:
-  goldmark:
-    renderHooks:
-      image:
-        enableDefault: true
