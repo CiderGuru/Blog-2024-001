@@ -3,8 +3,8 @@
 ############################
 
 # baseURL: "https://github.com/CiderGuru/Blog-2024-001"
-# baseURL: "https://stablemilkingstool.co.uk"
-baseURL: "https://blog-2024-01.netlify.app"
+baseURL: "https://stablemilkingstool.co.uk"
+# baseURL: "https://blog-2024-01.netlify.app"
 title: A Very Stable Blog
 
 ############################
