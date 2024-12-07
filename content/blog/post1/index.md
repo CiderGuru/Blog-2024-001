@@ -1,6 +1,6 @@
 ---
-title: Blog Post with Inline Images
-subtitle: "Blog post subtitle :zap:"
+title: Stable Blog
+subtitle: "Here we go... :zap:"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 date: 2023-11-24
 cardimage: photo1_card.jpeg
